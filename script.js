@@ -17,6 +17,6 @@ const countdown = setInterval(() => {
 
     if (timeLeft <= 0) {
         clearInterval(countdown);
-        window.location.href = "https://t.me/+uI6alAqnruxjMjc1";
+        window.location.href = "https://t.me/+e8gzyyuWO15kYTll";
     }
 }, 1000);
